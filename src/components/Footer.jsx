@@ -36,7 +36,7 @@ const Footer = () => {
             <FaFacebook />
           </a>
           <a
-            href="mailto:your@email.com"
+            href="mailto:yoour@email.com"
             className="hover:text-white transition"
           >
             <FaEnvelope />
