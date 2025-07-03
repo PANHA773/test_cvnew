@@ -44,7 +44,7 @@ const itemVariant = {
 
 const Skills = () => {
   return (
-    <section id="skills" className="bg-zinc-800 py-20 px-6 lg:px-32">
+    <section id="skills" className=" py-20 px-6 lg:px-32">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-3xl font-bold text-white mb-12">Skills I Can Do</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">

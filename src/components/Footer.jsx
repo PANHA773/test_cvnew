@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaFacebook, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-zinc-900 text-stone-400 py-8 px-6 mt-12">
+    <footer className=" text-stone-400 py-8 px-6 mt-12">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center text-center gap-4">
         <p className="text-sm">
           © {new Date().getFullYear()} Panha. All rights reserved.
