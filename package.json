@@ -3,19 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://panha773.github.io/panha-porfolio",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/panha773/panha-porfolio.git"
-  },
+  "homepage": "https://panha773.github.io/panha-porfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --force"
-
+    "deploy": "gh-pages -d build "
   },
   "dependencies": {
     "framer-motion": "^12.23.0",
